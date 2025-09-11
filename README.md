@@ -1,3 +1,5 @@
+[![CI](https://github.com/matheussiqueirahub/aria_gerenciador_de_catalogo/actions/workflows/tests.yml/badge.svg)](https://github.com/matheussiqueirahub/aria_gerenciador_de_catalogo/actions/workflows/tests.yml) [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](#)
+
 Aria – Gerenciador de Catálogo (CLI)
 
 Ferramenta de linha de comando para gerenciar o catálogo de e‑commerce (produtos geek) com Python, OOP, persistência em CSV e logging.
@@ -64,3 +66,4 @@ Próximos passos (sugestões)
 - Categorias: classe `Categoria` e listagem por categoria.
 - API REST: expor o gerenciador via Flask/FastAPI (`GET/POST /produtos`).
 - Empacotamento: transformar em pacote/console_script para instalação via pip.
+

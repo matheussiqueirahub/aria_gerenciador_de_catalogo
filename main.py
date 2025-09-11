@@ -48,7 +48,7 @@ def input_int_nao_negativo(msg: str) -> int:
 
 
 def mostrar_menu() -> None:
-    print("\n=== NerdZone | Gerenciador de Estoque ===")
+    print("\n=== Aria | Gerenciador de Estoque ===")
     print("1. Adicionar Produto")
     print("2. Listar Todos os Produtos")
     print("3. Atualizar Preço de um Produto")

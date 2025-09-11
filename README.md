@@ -1,4 +1,4 @@
-NerdZone – Gerenciador de Catálogo (CLI)
+Aria – Gerenciador de Catálogo (CLI)
 
 Ferramenta de linha de comando para gerenciar o catálogo de e‑commerce (produtos geek) com Python, OOP, persistência em CSV e logging.
 
